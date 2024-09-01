@@ -1,4 +1,4 @@
-5989
+5991
 56C:\Users\91735\Desktop\Projects\namaste-react\.gitignore133685620048137343 0
 114C:\Users\91735\Desktop\Projects\namaste-react\node_modules\caniuse-lite\data\features\es6-module-dynamic-import.js133685611025298355 0
 97C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@parcel\utils\src\isDirectoryInside.js133685611043786269 0
@@ -12,6 +12,7 @@
 122C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133685611018512700 0
 83C:\Users\91735\Desktop\Projects\namaste-react\node_modules\abortcontroller-polyfill133685611016458015 1
 76C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@msgpackr-extract133685666282222414 1
+68C:\Users\91735\Desktop\Projects\namaste-react\dist\index.27fd9591.js133696419756622165 0
 75C:\Users\91735\Desktop\Projects\namaste-react\node_modules\is-glob\index.js133685611010192212 0
 119C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@swc\helpers\cjs\_class_static_private_field_destructure.cjs133685611016690111 0
 88C:\Users\91735\Desktop\Projects\namaste-react\node_modules\svgo\plugins\removeDoctype.js133685611019015750 0
@@ -21,26 +22,17 @@
 82C:\Users\91735\Desktop\Projects\namaste-react\node_modules\escalade\dist\index.mjs133685611011711600 0
 86C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@parcel\events\package.json133685611033835217 0
 76C:\Users\91735\Desktop\Projects\namaste-react\node_modules\dotenv-expand\lib133685611011433293 1
-50C:\Users\91735\Desktop\Projects\namaste-react\dist133694672341165928 1
-81C:\Users\91735\Desktop\Projects\namaste-react\node_modules\color-convert\index.js133685611010853467 0
-84C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@swc\helpers\cjs\_jsx.cjs133685611018469805 0
-108C:\Users\91735\Desktop\Projects\namaste-react\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133685611020306542 0
-105C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@parcel\package-manager\test\fixtures\packages133685611037434426 1
-133C:\Users\91735\Desktop\Projects\namaste-react\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133685611038619261 0
-85C:\Users\91735\Desktop\Projects\namaste-react\node_modules\caniuse-lite\dist\unpacker133685611029430833 1
-116C:\Users\91735\Desktop\Projects\namaste-react\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\walk.cjs133685611036985915 0
-107C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@parcel\core\src\requests\WriteBundlesRequest.js133685611083356627 0
-94C:\Users\91735\Desktop\Projects\namaste-react\node_modules\update-browserslist-db\package.json133685611011473770 0
-52C:\Users\91735\Desktop\Projects\namaste-react\App.js133694672330935369 0
+50C:\Users\91735\Desktop\Projects\namaste-react\dist133696419756747468 1
+53C:\Users\91735\Desktop\Projects\namaste-react\App.jsx133696419755019062 0
 75C:\Users\91735\Desktop\Projects\namaste-react\node_modules\stable\stable.js133685611010789534 0
-55C:\Users\91735\Desktop\Projects\namaste-react\index.css133685148646581761 0
+55C:\Users\91735\Desktop\Projects\namaste-react\index.css133696417923692056 0
 131C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertTransform.js133685611015498087 0
 97C:\Users\91735\Desktop\Projects\namaste-react\node_modules\caniuse-lite\data\features\css-sel2.js133685611023801512 0
 102C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@mischnic\json-sourcemap\dist\index.js.flow133685611021681780 0
 79C:\Users\91735\Desktop\Projects\namaste-react\node_modules\json5\dist\index.mjs133685611014292882 0
 96C:\Users\91735\Desktop\Projects\namaste-react\node_modules\lightningcss-win32-x64-msvc\README.md133685611011711600 0
 83C:\Users\91735\Desktop\Projects\namaste-react\node_modules\semver\classes\semver.js133685611016979409 0
-56C:\Users\91735\Desktop\Projects\namaste-react\index.html133689517938436416 0
+56C:\Users\91735\Desktop\Projects\namaste-react\index.html133694688542193157 0
 67C:\Users\91735\Desktop\Projects\namaste-react\node_modules\boolbase133685611010346853 1
 107C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@swc\helpers\esm\_check_private_redeclaration.js133685611020884312 0
 72C:\Users\91735\Desktop\Projects\namaste-react\node_modules\utility-types133685611014403814 1
@@ -750,6 +742,15 @@
 77C:\Users\91735\Desktop\Projects\namaste-react\node_modules\mdn-data\README.md133685611016405684 0
 79C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@parcel\reporter-cli133685611036230538 1
 89C:\Users\91735\Desktop\Projects\namaste-react\node_modules\update-browserslist-db\LICENSE133685611009675505 0
+81C:\Users\91735\Desktop\Projects\namaste-react\node_modules\color-convert\index.js133685611010853467 0
+84C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@swc\helpers\cjs\_jsx.cjs133685611018469805 0
+108C:\Users\91735\Desktop\Projects\namaste-react\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133685611020306542 0
+105C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@parcel\package-manager\test\fixtures\packages133685611037434426 1
+133C:\Users\91735\Desktop\Projects\namaste-react\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\optional.js133685611038619261 0
+85C:\Users\91735\Desktop\Projects\namaste-react\node_modules\caniuse-lite\dist\unpacker133685611029430833 1
+116C:\Users\91735\Desktop\Projects\namaste-react\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\walk.cjs133685611036985915 0
+107C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@parcel\core\src\requests\WriteBundlesRequest.js133685611083356627 0
+94C:\Users\91735\Desktop\Projects\namaste-react\node_modules\update-browserslist-db\package.json133685611011473770 0
 83C:\Users\91735\Desktop\Projects\namaste-react\node_modules\domutils\lib\querying.js133685611012013326 0
 107C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@swc\helpers\cjs\_class_apply_descriptor_get.cjs133685611015041561 0
 71C:\Users\91735\Desktop\Projects\namaste-react\node_modules\is-json\test133685611011933820 1
@@ -1002,7 +1003,7 @@
 82C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@swc\helpers\_\_type_of133685611024911085 1
 101C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@parcel\core\test\fixtures\parcel\other.js133685611080749957 0
 90C:\Users\91735\Desktop\Projects\namaste-react\node_modules\caniuse-lite\data\regions\LS.js133685611027829402 0
-68C:\Users\91735\Desktop\Projects\namaste-react\dist\index.7826abd7.js133694672341064698 0
+68C:\Users\91735\Desktop\Projects\namaste-react\dist\index.7826abd7.js133694688167706599 0
 103C:\Users\91735\Desktop\Projects\namaste-react\node_modules\caniuse-lite\data\features\css-gencontent.js133685611022750912 0
 111C:\Users\91735\Desktop\Projects\namaste-react\node_modules\caniuse-lite\data\features\css-print-color-adjust.js133685611023614956 0
 71C:\Users\91735\Desktop\Projects\namaste-react\node_modules\lmdb\LICENSE133685611015884764 0
@@ -3295,7 +3296,7 @@
 93C:\Users\91735\Desktop\Projects\namaste-react\node_modules\css-tree\lib\syntax\node\Number.js133685611023736329 0
 95C:\Users\91735\Desktop\Projects\namaste-react\node_modules\css-tree\lib\syntax\node\Operator.js133685611023748380 0
 95C:\Users\91735\Desktop\Projects\namaste-react\node_modules\caniuse-lite\data\features\dialog.js133685611024591228 0
-61C:\Users\91735\Desktop\Projects\namaste-react\dist\index.html133694672340967832 0
+61C:\Users\91735\Desktop\Projects\namaste-react\dist\index.html133696417451895185 0
 98C:\Users\91735\Desktop\Projects\namaste-react\node_modules\css-tree\lib\syntax\node\Parentheses.js133685611023776558 0
 106C:\Users\91735\Desktop\Projects\namaste-react\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js133685611023848395 0
 104C:\Users\91735\Desktop\Projects\namaste-react\node_modules\caniuse-lite\data\features\css-text-indent.js133685611023931210 0
@@ -4531,6 +4532,7 @@
 83C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@swc\helpers\_\_defaults133685611023953098 1
 103C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@swc\helpers\_\_define_enumerable_properties133685611023988034 1
 90C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@swc\helpers\_\_define_property133685611024044835 1
+72C:\Users\91735\Desktop\Projects\namaste-react\dist\index.27fd9591.js.map133696419756724954 0
 83C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@swc\helpers\_\_inherits133685611024233117 1
 93C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@parcel\core\lib\serializerCore.js133685611082070529 0
 108C:\Users\91735\Desktop\Projects\namaste-react\node_modules\@swc\helpers\esm\_define_enumerable_properties.js133685611021953159 0
@@ -5984,7 +5986,7 @@
 90C:\Users\91735\Desktop\Projects\namaste-react\node_modules\.bin\update-browserslist-db.ps1133685611211872532 0
 68C:\Users\91735\Desktop\Projects\namaste-react\dist\index.6bd02f5a.js133685666288340309 0
 72C:\Users\91735\Desktop\Projects\namaste-react\dist\index.6bd02f5a.js.map133685666288506010 0
+72C:\Users\91735\Desktop\Projects\namaste-react\dist\index.7826abd7.js.map133694688167855576 0
 76C:\Users\91735\Desktop\Projects\namaste-react\dist\namaste-react.3464ddca.js133685666288410017 0
-69C:\Users\91735\Desktop\Projects\namaste-react\dist\index.9e4c6fd2.css133694672340463525 0
-73C:\Users\91735\Desktop\Projects\namaste-react\dist\index.9e4c6fd2.css.map133694672340588771 0
-72C:\Users\91735\Desktop\Projects\namaste-react\dist\index.7826abd7.js.map133694672341165928 0
+69C:\Users\91735\Desktop\Projects\namaste-react\dist\index.9e4c6fd2.css133696417924672094 0
+73C:\Users\91735\Desktop\Projects\namaste-react\dist\index.9e4c6fd2.css.map133696417924712355 0

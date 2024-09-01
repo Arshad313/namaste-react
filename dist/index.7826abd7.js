@@ -595,25 +595,10 @@ var _react = require("react");
 var _reactDefault = parcelHelpers.interopDefault(_react);
 var _client = require("react-dom/client");
 var _clientDefault = parcelHelpers.interopDefault(_client);
-const parent = (0, _reactDefault.default).createElement("div", {
-    id: "parent"
-}, [
-    (0, _reactDefault.default).createElement("div", {
-        id: "child"
-    }, [
-        (0, _reactDefault.default).createElement("h1", {}, "I am a H1 tag"),
-        (0, _reactDefault.default).createElement("h2", {}, "I am a H2 tag")
-    ]),
-    (0, _reactDefault.default).createElement("div", {
-        id: "child2"
-    }, [
-        (0, _reactDefault.default).createElement("h1", {}, "I am a H1 tag"),
-        (0, _reactDefault.default).createElement("h2", {}, "I am a H2 tag")
-    ])
-]);
-// const jsxHeading = <h1>trying out jsx</h1>;
+const heading = (0, _reactDefault.default).createElement("h2", {}, "namaste react");
+const jsxheading = h1 > Heading;
 const root = (0, _clientDefault.default).createRoot(document.getElementById("root"));
-root.render(parent);
+root.render(jsxheading);
 
   $parcel$ReactRefreshHelpers$c1db.postlude(module);
 } finally {
